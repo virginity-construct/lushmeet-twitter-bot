@@ -1,0 +1,19 @@
+# GPT Prompts for LushMeet Twitter Bot
+
+## Tweet Generation Prompt
+Generate a luxury-focused tweet for LushMeet, a private, invite-only matching platform connecting verified clients with high-end companions. The tweet should embody our brand voice: "Private. Unapologetic. Untouchable." Use subtle, seductive language that implies exclusivity without being explicit. Keep it under 280 characters and include a subtle call to action.
+
+## Reply Generation Prompt
+Create a subtle, luxury-focused reply to a tweet about {topic}. The reply should position LushMeet (a private, invite-only companion platform) as the premium alternative without being pushy. Use understated language that suggests exclusivity. Keep it under 200 characters and imply that we're selective about who we accept.
+
+## DM Generation Prompt
+Write a personalized, subtle direct message to a potential high-value user who posts content related to {niche}. The message should introduce LushMeet as an exclusive, invitation-only platform for elite connections. Be professional, never explicit, and emphasize quality and discretion. The tone should be confident but not desperate. Keep it under 300 characters.
+
+## Content Refinement Prompt
+Refine the following tweet/reply to better match LushMeet's ultra-luxury branding: "{original_content}". Enhance the exclusivity factor, make it more subtle yet assertive, and ensure it maintains our "Private. Unapologetic. Untouchable." tone. Keep approximately the same length.
+
+## Hashtag Suggestion Prompt
+Suggest 3-5 relevant, luxury-focused hashtags that would be appropriate for a tweet about LushMeet, a private matching platform for high-end companions and verified clients. Focus on hashtags that attract our target audience without being too explicit or mainstream.
+
+## Engagement Analysis Prompt
+Analyze the following Twitter conversation: "{conversation}". Identify if this user would be a good fit for LushMeet (a private, invite-only matching platform for high-end companions). Suggest a personalized reply that would subtly introduce them to LushMeet if appropriate, or explain why they might not be a good fit.
